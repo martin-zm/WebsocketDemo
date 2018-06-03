@@ -1,0 +1,12 @@
+/*.iml
+/target
+/.idea
+/*.log
+/*.ipr
+/*.iws
+node_modules
+/D:
+/weblog
+.project
+.classpath
+.settings/
